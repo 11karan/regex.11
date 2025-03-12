@@ -1,2 +1,5 @@
 this is my main branch
-new update with the main branch <= again
+<<<<<<< HEAD
+:======
+this is my feature branch
+>>>>>>> feature
